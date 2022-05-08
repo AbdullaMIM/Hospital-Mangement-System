@@ -1,8 +1,6 @@
 # ITPM
 This repository is for the ITPM Project 2022.
 
-This repository is for the ITPM Project 2022.
-
 Group ID - REG/WD/79
 
 Project Title - Hospital Management System
