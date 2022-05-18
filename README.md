@@ -1,9 +1,15 @@
 # ITPM
-This repository is for the ITPM Project 2022.
+This repository is for the IT Project Management IT3040 module of 2022.
+
+Project Title - Hospital Management System
 
 Group ID - REG/WD/79
 
-Project Title - Hospital Management System
+Group Members : 
+Abdulla M.I.M - IT20056520
+Nilam A.A.H   - IT20104276
+M.R.M Rifadh  - IT20038014
+S.Devasathiya - IT20080280
 
 Brief Description of Project 
 
