@@ -5,11 +5,11 @@ Project Title - Hospital Management System
 
 Group ID - REG/WD/79
 
-Group Members : 
-Abdulla M.I.M - IT20056520
-Nilam A.A.H   - IT20104276
-M.R.M Rifadh  - IT20038014
-S.Devasathiya - IT20080280
+Group Members : <br />
+Abdulla M.I.M - IT20056520 <br />
+Nilam A.A.H   - IT20104276 <br />
+M.R.M Rifadh  - IT20038014 <br />
+S.Devasathiya - IT20080280 <br />
 
 Brief Description of Project 
 
